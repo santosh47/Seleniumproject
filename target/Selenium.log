@@ -1,0 +1,13 @@
+2023-08-01 17:46:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-08-01 17:47:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1948863514
+2023-08-01 17:47:02 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-08-01 17:47:02 [INFO ] [Base] - [closeBrowser] Scenario Status is: undefined
+2023-08-01 18:02:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-08-01 18:02:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started105194717
+2023-08-01 18:02:18 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-08-01 18:02:18 [INFO ] [Base] - [closeBrowser] Scenario Status is: undefined
+2023-08-01 18:26:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-08-01 18:26:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-08-01 18:26:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1602069459
+2023-08-01 18:26:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-08-01 18:26:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
